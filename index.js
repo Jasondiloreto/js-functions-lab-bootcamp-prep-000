@@ -8,6 +8,6 @@ function happyHolidays(string) {
 var name = jason
 
 function happyHolidaysTo(string) {
-  console.log(`Happy holidays, everyone!`)
-  return (`Happy holidays, everyone!`)
+  console.log(`Happy holidays, ${name}!`)
+  return (`Happy holidays, ${name}!`)
 }

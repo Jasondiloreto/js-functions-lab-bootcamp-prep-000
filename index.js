@@ -9,5 +9,5 @@ var name = jason
 
 function happyHolidaysTo(string) {
   console.log("Happy holidays, ${name}!")
-  return ("Happy holidays, ${name}!")
+  return ("Happy holidays, you!")
 }

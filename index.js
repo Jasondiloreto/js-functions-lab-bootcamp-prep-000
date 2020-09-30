@@ -5,7 +5,7 @@ function happyHolidays(string) {
   return ("Happy holidays!")
 }
 
-var namespace = jason
+var name = jason
 
 function happyHolidaysTo(string) {
   console.log(`Happy holidays, everyone!`)

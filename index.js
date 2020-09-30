@@ -5,9 +5,7 @@ function happyHolidays(string) {
   return ("Happy holidays!")
 }
 
-var name = jason
 
-function happyHolidaysTo(string) {
-  console.log(`Happy holidays, ${name}!`)
-  return ("Happy holidays, you!")
+function happyHolidaysTo(name) {
+  return (`Happy holidays, ${name}!`)
 }
